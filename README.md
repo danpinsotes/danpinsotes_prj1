@@ -1,1 +1,1 @@
-# danpinsotes_prj1
+# danpinsotes_prj1.github.io
